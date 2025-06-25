@@ -22,5 +22,3 @@ def interactive_client():
             ),
         )
     )
-
-interactive_client()
